@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Collège Cardinal Hyacinthe Thiandoum",
+        "description": "Lycée perdu ; à HLM-Grand Yoff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.452711,
+          14.740962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institution Notre Dame",
+        "description": "Lycée perdu ; près de la cathédrale du souvenir africain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.439424,
+          14.664485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institution Sainte Jeanne d'Arc",
+        "description": "lycée perdu, près de la cathédrale du souvenir africain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.436768,
+          14.665227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée BILINGUE (de Génies) Berkley "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.467249,
+          14.729746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée BILLES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.27437,
+          14.775961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 807749791,
+        "extent": [
+          -17.4386464,
+          14.7555599,
+          -17.4378068,
+          14.7550047
+        ],
+        "country": "Senegal",
+        "city": "Dakar",
+        "countrycode": "SN",
+        "postcode": "12300",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "Rue PA-13-15",
+        "district": "Unite 13",
+        "osm_value": "school",
+        "name": "Lycée des Parcelles Assainies Unité 13 (LPa 13)",
+        "state": "Dakar Region",
+        "description": "Lycée perdu ; aux parcelles assainies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.438178,
+          14.755285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Mixte Maurice Delafosse",
+        "description": "Lycée perdu ;  Non loin du jardin botanique de l'UCAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.459116,
+          14.684869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Ouakam",
+        "description": "Lycée perdu ; non loin du stade municipal de Ouakam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.494114,
+          14.728858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Ousmane Sembène de Yoff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.483979,
+          14.759207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Thierno Saidou Nourou Tall",
+        "description": "Lycée perdu ;  opposé à l'Ambassade du Maroc par un rond point et près de la fac des sciences et technologie de l'éducation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.466567,
+          14.697551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison d'Education Athéna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.499354,
+          14.750907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison d'éducation Mariama BA de Gorée",
+        "description": "Lycée perdu ;  sur l'Île de Gorée"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.397079,
+          14.666375
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Abdoulaye Sadji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.464067,
+          14.705417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cours Sacrée Cœur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.463595,
+          14.713298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "BIRAGO DIOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.458222,
+          14.694366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Ecole Saint-Pierre",
+        "description": "Lycée ayant participé à la premiere edition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.463611,
+          14.710548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Kennedy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.449121,
+          14.696606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 628555356,
+        "extent": [
+          -17.2725592,
+          14.713946,
+          -17.2718601,
+          14.713251
+        ],
+        "country": "Senegal",
+        "city": "Rufisque",
+        "countrycode": "SN",
+        "postcode": "20000",
+        "county": "Rufisque Department",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "Rue Léon Armand",
+        "district": "Rufisque Est",
+        "osm_value": "school",
+        "name": "Lycée Abdoulaye Sadji",
+        "state": "Dakar Region",
+        "_umap_options": {
+          "iconClass": "Drop"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.272186,
+          14.713642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Lycée Blaise Diagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.452705,
+          14.696918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Cheikh Amidou Kane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.457699,
+          14.695859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Lycée de Thiaroye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.378064,
+          14.754216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 533608409,
+        "extent": [
+          -17.3631698,
+          14.7845665,
+          -17.3618904,
+          14.7823335
+        ],
+        "country": "Senegal",
+        "city": "Guédiawaye",
+        "countrycode": "SN",
+        "postcode": "15000",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "route de l'asecna",
+        "district": "Wakhinane Nimzatt Commune",
+        "osm_value": "school",
+        "name": "Lycee El Hadji Ibrahima Diop",
+        "state": "Dakar Region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.362466,
+          14.783481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 533608409,
+        "extent": [
+          -17.3631698,
+          14.7845665,
+          -17.3618904,
+          14.7823335
+        ],
+        "country": "Senegal",
+        "city": "Guédiawaye",
+        "countrycode": "SN",
+        "postcode": "15000",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "route de l'asecna",
+        "district": "Wakhinane Nimzatt Commune",
+        "osm_value": "school",
+        "name": "Lycee El Hadji Ibrahima Diop",
+        "state": "Dakar Region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.362466,
+          14.783481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Lycée Galandou Diouf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.47104,
+          14.702916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Lycée Lamine Guèye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.440449,
+          14.661543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Moderne de Rufisque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.267241,
+          14.717008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 555755470,
+        "extent": [
+          -16.1966618,
+          14.6762285,
+          -16.1919331,
+          14.6709986
+        ],
+        "country": "Senegal",
+        "city": "Diourbel",
+        "countrycode": "SN",
+        "postcode": "21600",
+        "county": "Département de Diourbel",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "N3",
+        "osm_value": "school",
+        "name": "Lycée Scientifique d'Excellence de Diourbel",
+        "state": "Diourbel Region",
+        "_umap_options": {
+          "iconClass": "Drop"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.194292,
+          14.673632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Lycée Seydina Limamoulaye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.379845,
+          14.776594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop"
+        },
+        "name": "Sergent Malamine Camara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.455183,
+          14.746113
+        ]
+      }
+    }
+  ]
+}

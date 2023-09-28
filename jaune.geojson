@@ -1,0 +1,264 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2175378503,
+        "country": "Senegal",
+        "city": "Dakar",
+        "countrycode": "SN",
+        "postcode": "10500",
+        "locality": "Gueule Tapée",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "Avenue Cheikh Anta Diop",
+        "district": "Gueule Tapée-Fass-Colobane",
+        "osm_value": "school",
+        "name": "Anne Marie Javouhey",
+        "state": "Dakar Region",
+        "description": "Lycée gagné ; près de la paroisse St Joseph de Médina "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.456464,
+          14.686644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Complexe Académique Dakar Edu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.456894,
+          14.692766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cours sainte Marie de Hann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.436224,
+          14.733567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ecole Scientifique Internationale d'Excellence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.456802,
+          14.695568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 8276557826,
+        "country": "Senegal",
+        "city": "Dakar",
+        "countrycode": "SN",
+        "postcode": "24951",
+        "locality": "Rebeuss",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "Avenue Malick Sy",
+        "district": "Dakar-Plateau",
+        "osm_value": "school",
+        "name": "Institut islamique de Dakar",
+        "state": "Dakar Region",
+        "description": "Lycée gagné ;  non loin du CESAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.443274,
+          14.678994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 392282690,
+        "extent": [
+          -17.3976618,
+          14.7684696,
+          -17.3966038,
+          14.7677667
+        ],
+        "country": "Senegal",
+        "city": "Pikine",
+        "countrycode": "SN",
+        "postcode": "14000",
+        "county": "Pikine Department",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "Route de Niayes",
+        "district": "Djida Thiaroye Kaw",
+        "osm_value": "college",
+        "name": "Lycée de Pikine",
+        "state": "Dakar Region",
+        "description": "Lycée gagné ; non loin du centre de sauvegarde de Pikine-Guediawaye (route de Niayes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.397255,
+          14.768259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 257753516,
+        "extent": [
+          -17.137986,
+          14.7389794,
+          -17.1360529,
+          14.7370657
+        ],
+        "country": "Senegal",
+        "osm_key": "amenity",
+        "city": "Sebikotane",
+        "countrycode": "SN",
+        "osm_value": "school",
+        "name": "Lycée de Sébikotane",
+        "county": "Rufisque Department",
+        "state": "Dakar Region",
+        "type": "house",
+        "description": "Lycée gagné ;  à Sébikotane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.137017,
+          14.738011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Issa Rahou Laye",
+        "description": "Lycée gagné ; dans la commune de Camberène Dakar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.43065,
+          14.766915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lycée Maba Diakhou Bâ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.772304,
+          13.74461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 363345908,
+        "extent": [
+          -16.2291088,
+          14.6405684,
+          -16.2264373,
+          14.6366134
+        ],
+        "country": "Senegal",
+        "city": "Diourbel",
+        "countrycode": "SN",
+        "postcode": "21600",
+        "county": "Département de Diourbel",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "hlm route de gossas",
+        "osm_value": "school",
+        "name": "Lycée Ndayane",
+        "state": "Diourbel Region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.22778,
+          14.638207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 352364266,
+        "extent": [
+          -16.070063,
+          14.1793312,
+          -16.0687247,
+          14.1778855
+        ],
+        "country": "Senegal",
+        "city": "Khelcom Birame",
+        "countrycode": "SN",
+        "postcode": "24000",
+        "county": "Département de Guinguinéo",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "district": "Ourour",
+        "osm_value": "school",
+        "name": "Lycèe Ngane Saer",
+        "state": "Kaolack Region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.069402,
+          14.178628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tazawoudous-Choubbane Keur Badiane Maï",
+        "description": "A TOUBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.895194,
+          14.828523
+        ]
+      }
+    }
+  ]
+}
